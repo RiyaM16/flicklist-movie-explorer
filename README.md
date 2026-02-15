@@ -1,7 +1,7 @@
 # Flicklist
 A Movie Explorer web app where users can search movies, view details, and save favorites with a personal rating/comment using the TMDB API.
 
-**Live Demo**: 
+**Live Demo**: https://flicklist-movie-explorer.vercel.app/
 
 ## Features
 
